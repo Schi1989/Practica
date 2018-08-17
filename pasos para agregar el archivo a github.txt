@@ -1,0 +1,15 @@
+cd 'nombre de la ruta donde quiere arrancar' EJ cd desktop
+mkdir 'nombre de la carpeta a crea' EJ mkdir practica
+cd practica 'para pasarnos a la carpeta que se acaba de crear'
+touch 'nombre del archivo y tipo finalizando con el tipo' EJ touch practica.txt
+vim practica.txt
+para salir del editor de texto se debe dar la siguiente linea de comando (esc :wq)
+git init 'para iniciar el archivo'
+git status
+git add .
+git commit -m 'nombre del archivo' EJ git commit -m "practica_home"
+para agregar el archivo al repositorio de github se deben realizar los siguiente comandos
+$ git remote add origin (https://github.com/Schi1989/Practica.git) la parte del parentesis se debe copiar del github
+$ git push -u origin master para confirmar y montar el archivo
+
+
