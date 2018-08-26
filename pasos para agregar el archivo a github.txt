@@ -9,7 +9,7 @@ git status
 git add .
 git commit -m 'nombre del archivo' EJ git commit -m "practica_home"
 para agregar el archivo al repositorio de github se deben realizar los siguiente comandos
-$ git remote add origin (https://github.com/Schi1989/Practica.git) la parte del parentesis se debe copiar del github
+$ git remote add origin https://github.com/Schi1989/Practica.git la parte del parentesis se debe copiar del github
 $ git push -u origin master para confirmar y montar el archivo
 
 
